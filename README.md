@@ -23,5 +23,5 @@ Light Theme:
 
 Dark theme:
 
-<img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeDarkInterface.png" width = "250" height = "505" >.<img src = "[https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeLightInterface.png](https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeDarkAddItem.png)" width = "250" height = "505" >
+<img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeDarkInterface.png" width = "250" height = "505" >.<img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeDarkAddItem.png" width = "250" height = "505" >
 
