@@ -3,7 +3,7 @@ Hey folks <img src = "https://github.com/NehaVns/NehaVns/blob/main/Hi.gif" width
 # SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-Project: Grocery App <img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/grocery-cart.png" width = "30" height = "30">
+Project: Grocery App <img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/grocery-cart.png" width = "45" height = "45">
 ========================
 Introduction
 ----------------------------
