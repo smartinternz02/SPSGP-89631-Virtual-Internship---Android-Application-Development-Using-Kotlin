@@ -18,3 +18,4 @@ Technologies-Used
 Screenshots of the Application
 -----------------------------------
 Light Theme
+<img src = "https://github.com/smartinternz02/SPSGP-89631-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/ThemeLightInterface.png" >
